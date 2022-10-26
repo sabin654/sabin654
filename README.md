@@ -1,5 +1,5 @@
 - 👋 Hi, i am Sabin Bhandari!
 - 👀 I’m interested in Learning Tech
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Youtube
+- 🌱 I’m currently learning JAVA and Flutter
+- 💞️ My hobbies are travelling and learning new things
 - 📫 How to reach me: Linkedin- sabin-bhandari11
