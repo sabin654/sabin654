@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Sabin Bhandari.
 - 👀 I am interested in learning and exploring new technologies.
 - 🌱 Currently, I am focused on learning FullStack Development.
-- 💞️In my free time, I enjoy traveling and learning new things
+- 💞️In my free time, I staying up to date with the latest tech trends and advancements. 
 - 📫 You can connect with me on LinkedIn at sabin-bhandari11
